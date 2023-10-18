@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author QuaVi
+ * @author DELL
  */
 public class StudentInformationRepository implements Interfaces_StudentInformationRepository{
 
