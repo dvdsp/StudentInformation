@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author QuaVi
+ * @author DELL
  */
 public class Library {
 
