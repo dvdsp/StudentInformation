@@ -6,7 +6,7 @@ package Model;
 
 /**
  *
- * @author QuaVi
+ * @author DELL
  */
 
 public class Student implements Comparable<Student> {
