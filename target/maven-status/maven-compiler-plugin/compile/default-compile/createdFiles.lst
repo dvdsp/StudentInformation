@@ -1,0 +1,8 @@
+Main.class
+Common\Validation.class
+Repository\StudentInformationRepository.class
+Model\Student.class
+View\Menu.class
+Repository\Interfaces_StudentInformationRepository.class
+Controller\Manager.class
+DataAccess\StudentInformationDao.class
