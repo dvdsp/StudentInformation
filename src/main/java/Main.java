@@ -8,7 +8,7 @@ import Controller.Manager;
 
 /**
  *
- * @author QuaVi
+ * @author DELL
  */
 public class Main {
      public static void main(String[] args) {
