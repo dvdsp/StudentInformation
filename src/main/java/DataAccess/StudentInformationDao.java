@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author QuaVi
+ * @author DELL
  */
 public class StudentInformationDao {
 
